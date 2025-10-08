@@ -4,6 +4,10 @@
 
   > [SECCIÓN][<header></header>]
     MOSTRAR logo del negocio
+    PARA cada sección principal del sitio HACER:
+    CREAR enlace con href="#idDeLaSeccion"
+    MOSTRAR texto del enlace (Inicio, Catálogo, etc.)
+
     MOSTRAR menú de navegación con enlaces:
       - Inicio
       - Catálogo
@@ -25,7 +29,7 @@
       MOSTRAR descripción breve
       MOSTRAR botón "Comprar" o "Más info"
 
- > [SECCIÓN] [Adicionales]
+ > [SECCIÓN][Adicionales]
     MOSTRAR testimonios de clientes
     MOSTRAR ofertas del mes
     MOSTRAR beneficios como "Envío gratis"
