@@ -2,7 +2,7 @@
 
   >DEFINIR estructura general como una sola página (landing)
 
-  > [SECCIÓN][<header></header>]
+  > [SECCIÓN][Header]
     MOSTRAR logo del negocio
     PARA cada sección principal del sitio HACER:
     CREAR enlace con href="#idDeLaSeccion"
